@@ -1,4 +1,4 @@
-FROM node:6.12-alpine
+FROM node:9.4-alpine
 
 LABEL maintainer="Markus Rodler"
 
