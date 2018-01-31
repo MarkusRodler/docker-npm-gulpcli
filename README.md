@@ -1,1 +1,4 @@
-# docker-npm-gulpcli
+# Docker NPM + Gulp-Cli - Node 9.4 Alpine
+[![GitHub issues](https://img.shields.io/github/issues/MarkusRodler/docker-npm-gulpcli.svg?style=flat-square)](https://github.com/MarkusRodler/docker-npm-gulpcli/issues) [![GitHub stars](https://img.shields.io/github/stars/MarkusRodler/docker-npm-gulpcli.svg?style=flat-square)](https://github.com/MarkusRodler/docker-npm-gulpcli/stargazers) [![GitHub license](https://img.shields.io/github/license/MarkusRodler/docker-npm-gulpcli.svg?style=flat-square)](https://github.com/MarkusRodler/docker-npm-gulpcli/blob/master/LICENSE) [![Docker Stars](https://img.shields.io/docker/stars/mrodler/npm-gulpcli.svg?style=flat-square)]() [![Docker Pulls](https://img.shields.io/docker/pulls/mrodler/npm-gulpcli.svg?style=flat-square)]() [![](https://images.microbadger.com/badges/image/mrodler/npm-gulpcli.svg)](https://microbadger.com/images/mrodler/npm-gulpcli "Get your own image badge on microbadger.com")
+
+Combines NPM and Gulp-Cli in one container
